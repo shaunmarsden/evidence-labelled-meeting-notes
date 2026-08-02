@@ -20,7 +20,7 @@ Copy [SKILL.md](SKILL.md) and paste it into your AI tool (ChatGPT, Claude, Gemin
 - **An action list**, with owner and timing marked as unknown whenever the meeting did not actually assign them, rather than guessed
 - **Open questions**, what the meeting genuinely left unresolved
 
-See [the worked example](example/) for this run against a fictional project status call, built with deliberate traps (a proposal floated but never agreed, an action acknowledged but never assigned, a fact one speaker got wrong and then corrected) to check the method actually catches them.
+See [the output template](templates/output-template.md) for the exact shape without any fictional content, or the worked examples for it run against real transcripts. [The first](example/) is a project status call built with traps that should not be mistaken for decisions (a proposal floated but never agreed, an action acknowledged but never assigned, a fact one speaker got wrong and then corrected). [The second](example-two/) tests the opposite risk, a hiring debrief with genuine, confirmed decisions the skill needs to correctly recognise rather than hedge out of excess caution.
 
 No installation, project, or coding required to try it once.
 

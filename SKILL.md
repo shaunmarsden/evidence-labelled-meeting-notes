@@ -35,17 +35,21 @@ Do not upgrade an estimate, a second-hand comment or an inference into a confirm
 ## Extract the Findings
 
 1. Identify confirmed facts and estimates, kept clearly labelled as which.
-2. Record each action with its owner and timing, only where the meeting actually assigned both; mark either as unknown if it did not.
-3. Flag anything that sounds like a decision but was never actually confirmed as one, a proposal floated and never voted on, an idea that got nodded at rather than agreed.
-4. Note open questions and genuine unknowns the meeting did not resolve.
-5. Surface any conflict between two things said in the same meeting, rather than silently picking the more convenient one.
-6. Prepare a short summary that a reader could act on, with facts, estimates and assumptions still visibly distinct within it.
+2. State plainly when the meeting actually reached a genuine decision, do not hedge a real, explicit agreement just to be cautious; treating a real yes as ambiguous is its own failure, not a safe default.
+3. Record each action with its owner and timing, only where the meeting actually assigned both; mark either as unknown, or as a soft estimate, if it did not.
+4. Flag anything that sounds like a decision but was never actually confirmed as one, a proposal floated and never voted on, an idea that got nodded at rather than agreed.
+5. Note open questions and genuine unknowns the meeting did not resolve.
+6. Surface any conflict between two things said in the same meeting, rather than silently picking the more convenient one.
+7. Prepare a short summary that a reader could act on, with facts, decisions, estimates and assumptions still visibly distinct within it.
+
+Use [the output template](templates/output-template.md) for the shape of the final write-up.
 
 ## Apply the Guardrails
 
 - Never invent an owner, a date, or a commitment the meeting did not actually establish.
 - Preserve conditional language exactly: "I think", "probably", "we should check", "subject to budget approval".
 - Do not treat a discussed option as a decision unless the meeting shows it was actually decided.
+- Equally, do not hedge a genuine, unambiguous agreement into looking uncertain just to seem cautious; call a real decision a decision.
 - State plainly when the meeting did not resolve something, rather than filling the gap with a plausible guess.
 - Recommend a next step if one is obvious, but do not treat this write-up as authorisation to act on it.
 
@@ -64,4 +68,4 @@ Explain the limitation and ask only for the minimum missing information.
 
 End with the points a reader must check before treating this write-up as the record: any action with an unknown owner or date, any flagged non-decision, and any conflict that was surfaced rather than resolved.
 
-For a fictional test with deliberate traps, read [the worked example](example/).
+For fictional tests, read [the first worked example](example/), built to check the skill does not mistake a floated idea for a real decision, and [the second](example-two/), built to check the opposite: that it still recognises a genuine decision when one actually happens.
