@@ -11,7 +11,7 @@ Turn a meeting transcript or notes into a write-up that keeps confirmed facts, e
 
 A meeting write-up usually reads as one flat block of "what happened," which quietly lets a proposal that was never actually agreed read the same as a real decision, or an action nobody was assigned read as if someone owns it. This keeps those things visibly apart: what was actually confirmed, what is an estimate, what is second-hand, and what only sounds like a decision but was left open.
 
-![Meeting notes before and after evidence labels are applied.](assets/diagrams/07-evidence-labelled-meeting-notes.svg)
+[![Meeting notes before and after evidence labels are applied.](assets/diagrams/07-evidence-labelled-meeting-notes.svg)](SKILL.md)
 
 ## Use It
 
