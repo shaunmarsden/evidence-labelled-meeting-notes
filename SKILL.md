@@ -68,4 +68,4 @@ Explain the limitation and ask only for the minimum missing information.
 
 End with the points a reader must check before treating this write-up as the record: any action with an unknown owner or date, any flagged non-decision, and any conflict that was surfaced rather than resolved.
 
-For fictional tests, read [the first worked example](example/), built to check the skill does not mistake a floated idea for a real decision, and [the second](example-two/), built to check the opposite: that it still recognises a genuine decision when one actually happens.
+For fictional tests, read [the first worked example](example/), built to check the skill does not mistake a floated idea for a real decision, and [the second](example-two/), built to check the opposite: that it still recognises a genuine decision when one actually happens. Use [the review checklist](checks/checklist.md) before treating any write-up as the record.
