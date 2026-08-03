@@ -42,10 +42,6 @@ No installation, project, or coding required to try it once.
 
 Do not paste in anything confidential you are not allowed to process outside your organisation's approved tools. This produces a write-up for your own use; treat any suggested next step as something to check and act on yourself, not something the write-up has already authorised.
 
-## Licence
-
-MIT.
-
 ## Feedback
 
 Tried it on a real meeting? [Start a discussion](https://github.com/shaunmarsden/evidence-labelled-meeting-notes/discussions) if something did not work the way you expected.
