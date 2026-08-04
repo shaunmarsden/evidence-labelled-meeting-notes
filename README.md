@@ -13,6 +13,8 @@ A meeting write-up usually reads as one flat block of "what happened," which qui
 
 [![Meeting notes before and after evidence labels are applied.](assets/diagrams/07-evidence-labelled-meeting-notes.svg)](SKILL.md)
 
+**Not what you need?** This turns a meeting into a written record. If you are instead auditing an existing tracker's status fields against the evidence for each item, [Claims vs. Evidence Checker](https://github.com/shaunmarsden/claims-vs-evidence-checker) is probably the one you want.
+
 ## Use It
 
 Copy [SKILL.md](SKILL.md) and paste it into your AI tool (ChatGPT, Claude, Gemini, or similar), then paste in the meeting's transcript or your notes. It produces:
