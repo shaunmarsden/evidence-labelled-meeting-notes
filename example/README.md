@@ -1,9 +1,9 @@
 # Worked Example
 
-A fictional weekly project status call, Fernbridge Digital, entirely made up, built with deliberate traps to test whether [SKILL.md](../SKILL.md) actually holds the line between what was said and what only sounded like it was decided.
+A made-up weekly project status call at Fernbridge Digital, an invented company. I built traps into it to test whether [SKILL.md](../SKILL.md) keeps what was said apart from what only sounded decided.
 
 - [transcript.md](transcript.md): the meeting as it happened
-- [output.md](output.md): the evidence-labelled write-up the skill produces
-- [review.md](review.md): an honest check of whether the output actually caught every trap the transcript was built to test
+- [output.md](output.md): the evidence-labelled write-up the skill produced
+- [review.md](review.md): my check of whether the output caught every trap in the transcript
 
-Read the transcript first and try to spot the traps yourself before reading the output, it is a genuinely useful check on whether the method is actually doing anything a careful human could not already do by hand.
+Read the transcript first and try to spot the traps yourself before you read the output. It's a useful test of whether the method does anything a careful person couldn't already do by hand.
