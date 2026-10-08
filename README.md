@@ -9,7 +9,7 @@ Turn a meeting transcript or your notes into a write-up that keeps confirmed fac
 
 ## Why
 
-A meeting write-up usually reads as one flat block of "what happened," so a proposal nobody agreed reads the same as a real decision. An action nobody was given reads as if someone owns it. This keeps them apart: what was confirmed, what's an estimate, what's second-hand, and what only sounds like a decision but was left open.
+A meeting write-up often reads as one flat block of "what happened," so a proposal nobody agreed reads the same as a real decision. An action nobody was given reads as if someone owns it. This keeps them apart: what was confirmed, what's an estimate, what's second-hand, and what only sounds like a decision but was left open.
 
 [![Meeting notes before and after evidence labels are applied.](assets/diagrams/07-evidence-labelled-meeting-notes.svg)](SKILL.md)
 
