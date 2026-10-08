@@ -7,3 +7,5 @@ A made-up weekly project status call at Fernbridge Digital, an invented company.
 - [review.md](review.md): my check of whether the output caught every trap in the transcript
 
 Read the transcript first and try to spot the traps yourself before you read the output. It's a useful test of whether the method does anything a careful person couldn't already do by hand.
+
+The repository doesn't record which model wrote this output, or whether it knew what the test was checking. Read it as an illustration of what a good run looks like, not as a logged run.

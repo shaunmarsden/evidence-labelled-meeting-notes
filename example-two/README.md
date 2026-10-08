@@ -7,3 +7,5 @@ It's a made-up hiring panel debrief at Overton Labs, an invented company. It has
 - [transcript.md](transcript.md): the meeting as it happened
 - [output.md](output.md): the evidence-labelled write-up
 - [review.md](review.md): whether the output told the two real decisions apart from the one that wasn't
+
+The repository doesn't record which model wrote this output, or whether it knew what the test was checking. Read it as an illustration of what a good run looks like, not as a logged run.

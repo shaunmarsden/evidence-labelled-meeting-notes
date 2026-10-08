@@ -16,8 +16,12 @@ It still flagged the one real non-decision. The take-home test idea got the same
 
 "Early next week" is vague. Someone reading this should get a date from Jordan, rather than let a soft target quietly become the working date.
 
+The write-up names two candidates and records how the panel judged them, which is personal data. Keep it with the people running the hiring process, and don't send the offer on the write-up's say alone.
+
+SKILL.md asks the write-up to end with the points a reader must check. This output has no such closing section.
+
 If the second interview changes the picture on Alex Rowe, this will need a new write-up. It only reflects this one meeting.
 
 ## Verdict
 
-No automatic failure. I built this example to test the opposite risk from the first one. A tool tuned only to catch false decisions could easily swing the other way and treat everything as unclear. This one didn't. It called the two real decisions decisions, and still called the one non-decision a non-decision. It also labelled the action with soft timing as softer than the fully confirmed one next to it.
+No automatic failure. I built this example to test the opposite risk from the first one. A tool tuned only to catch false decisions could easily swing the other way and treat everything as unclear. This one didn't. It called the two real decisions decisions, and still called the one non-decision a non-decision. It also labelled the action with soft timing as softer than the fully confirmed one next to it. This output shows what correct behaviour looks like, not that a model will behave that way on a real case.
