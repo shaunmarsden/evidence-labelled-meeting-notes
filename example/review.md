@@ -20,7 +20,7 @@ It labelled the second-hand report. Liz's comment about login timeouts came from
 
 The auth testing estimate may be days old by the time anyone reads this. Someone should check whether it still holds, rather than treat an old hedge as current.
 
-The output calls the core migration "complete" and labels that `confirmed`. Dan said it was "basically done". It also says Dan "confirmed" he'd been thinking of the payments flow, where he only said he might be. And it says Liz flagged the login timeouts for proper follow-up, when Priya said that and Liz said only that she hadn't looked into them. Check each against the transcript before relying on it.
+The output calls the core migration "complete" and labels that `confirmed`. Dan said it was "basically done". It also says Dan "confirmed" he'd been thinking of the payments flow, where he only said he might be. And it says Liz flagged the login timeouts for proper follow-up, when Hester said that and Liz said only that she hadn't looked into them. Check each against the transcript before relying on it.
 
 SKILL.md asks the write-up to end with the points a reader must check. This output has no such closing section.
 
