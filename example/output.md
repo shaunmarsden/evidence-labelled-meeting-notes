@@ -17,8 +17,8 @@ Source: [transcript.md](transcript.md), Fernbridge Digital, fictional.
 
 ## Flagged Non-Decisions
 
-- **The 15th as a launch date was discussed, not agreed.** Priya proposed it; Dan gave a conditional, hedged yes ("I guess that could work, assuming Sam's estimate holds"); Sam explicitly declined to commit to any date until auth testing is finished. Priya then confirmed it stays a working target, not a locked date. Treat this as unresolved, not as a decision.
-- **Rollout approach (gradual vs. all at once) was discussed, not decided.** Liz leaned gradual; Dan said it could go either way. Priya explicitly left it open pending the auth testing outcome.
+- **The 15th as a launch date was discussed, not agreed.** Hester proposed it; Dan gave a conditional, hedged yes ("I guess that could work, assuming Sam's estimate holds"); Sam explicitly declined to commit to any date until auth testing is finished. Hester then confirmed it stays a working target, not a locked date. Treat this as unresolved, not as a decision.
+- **Rollout approach (gradual vs. all at once) was discussed, not decided.** Liz leaned gradual; Dan said it could go either way. Hester explicitly left it open pending the auth testing outcome.
 
 ## Actions
 
