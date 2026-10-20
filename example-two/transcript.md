@@ -1,6 +1,6 @@
 # Fictional Transcript: Hiring Panel Debrief
 
-Overton Labs, an entirely fictional company. Debrief after final interviews for a Senior Support Engineer role. Participants: Jordan Blake (Hiring Manager), Delia Desai (Panel, Engineering), Marcus Webb (Panel, Ops).
+Overton Labs, an entirely fictional company. Debrief after final interviews for a Senior Support Engineer role. Participants: Jordan Blake (Hiring Manager), Delia Lockwood (Panel, Engineering), Marcus Webb (Panel, Ops).
 
 ---
 
