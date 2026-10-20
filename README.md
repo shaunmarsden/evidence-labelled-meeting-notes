@@ -36,7 +36,7 @@ Copy [SKILL.md](SKILL.md) and paste it into your AI tool (ChatGPT, Claude, Gemin
 
 [The output template](templates/output-template.md) shows the exact shape with no made-up content. The worked examples show it run on full transcripts. [The first](example/) is a project status call with traps that shouldn't be mistaken for decisions: a proposal nobody agreed, an action someone mentioned but nobody was given, and a fact one speaker got wrong and then corrected. [The second](example-two/) tests the opposite risk. It's a hiring debrief with real, confirmed decisions, which the skill has to recognise rather than hedge out of too much caution.
 
-Use [the review checklist](checks/checklist.md) before you treat any write-up as the record.
+Use [the review checklist](checks/checklist.md) before you treat any write-up as the record. I [tested](evaluations/template-in-skill-test.md) whether the template needs to be inside the skill when you paste it. It does, and it's there now.
 
 You don't need to install anything or write any code to try it once.
 
