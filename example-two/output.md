@@ -4,8 +4,8 @@ Source: [transcript.md](transcript.md), Overton Labs, fictional.
 
 ## Confirmed Facts
 
-- Jamie Ellis's technical round was strong, with no gaps flagged by Delia; the ops scenario went well per Marcus. `confirmed`
-- Alex Rowe's technical fundamentals were solid, but both Delia and Marcus independently noted a gap on the incident escalation question. `confirmed`
+- Jamie Ellis's technical round was strong, with no gaps flagged by Delia; the ops scenario went well per Piers. `confirmed`
+- Alex Rowe's technical fundamentals were solid, but both Delia and Piers independently noted a gap on the incident escalation question. `confirmed`
 
 ## Confirmed Decisions
 
@@ -21,7 +21,7 @@ Source: [transcript.md](transcript.md), Overton Labs, fictional.
 
 ## Flagged Non-Decisions
 
-- **Introducing take-home technical tests for all candidates was discussed, not decided.** Delia thought it could be worth trying; Marcus raised a cost concern (added time, not clearly worth it for every role). Jordan explicitly closed this as "a maybe for now, not something we're actually changing yet." Treat as an open idea, not a policy change.
+- **Introducing take-home technical tests for all candidates was discussed, not decided.** Delia thought it could be worth trying; Piers raised a cost concern (added time, not clearly worth it for every role). Jordan explicitly closed this as "a maybe for now, not something we're actually changing yet." Treat as an open idea, not a policy change.
 
 ## Open Questions
 
