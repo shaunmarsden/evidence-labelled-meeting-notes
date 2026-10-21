@@ -1,6 +1,6 @@
 # Fictional Transcript: Project Atlas Weekly Status
 
-Fernbridge Digital, an entirely fictional software company. Weekly status call for Project Atlas, an internal platform migration. Participants: Hester Pembroke (Project Manager), Dan Okafor (Engineering Lead), Sam Whitfield (QA Lead), Liz Chen (Product).
+Fernbridge Digital, an entirely fictional software company. Weekly status call for Project Atlas, an internal platform migration. Participants: Hester Pembroke (Project Manager), Dan Brannigan (Engineering Lead), Sam Crowther (QA Lead), Liz Chen (Product).
 
 ---
 
