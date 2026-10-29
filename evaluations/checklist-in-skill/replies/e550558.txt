@@ -1,0 +1,68 @@
+Inputs supplied: one fictional transcript of a hiring panel debrief at Overton Labs for a Senior Support Engineer role. Participants: Casey Blake (Hiring Manager), Delia Lockwood (Panel, Engineering), Piers Lowther (Panel, Ops). No earlier notes or correspondence. Everything below comes from people who were in the meeting and spoke for themselves.
+
+# Evidence-Labelled Notes: Hiring Panel Debrief, Senior Support Engineer
+
+Source: fictional transcript, Overton Labs hiring panel debrief after final interviews
+
+## Confirmed Facts
+
+- Delia ran Jamie Ellis's technical round and called it "Genuinely one of the best technical rounds we've had this quarter. No gaps I'd flag." `confirmed` (as Delia's stated view)
+- Piers said Jamie's ops scenario "went well, good instincts under pressure." `confirmed` (as Piers's stated view)
+- Piers said Sasha Rowe's ops scenario "was fine" but there was a gap on the incident escalation question that "worried me a bit. Not a dealbreaker necessarily." `confirmed` (as Piers's stated view)
+- Delia said she saw the same incident escalation gap on her side, and that Sasha's "Technical fundamentals were solid otherwise." `confirmed` (as Delia's stated view)
+- Casey noted the concern about Sasha came up from both panellists independently. `confirmed`
+
+## Confirmed Decisions
+
+- Overton Labs will extend an offer to Jamie Ellis. Casey asked if everyone agreed, Delia said "Yes, from me", Piers said "Yes, no hesitation", and Casey said "that's decided then." `confirmed`
+- No decision on Sasha Rowe today. A second technical interview probing incident response will be held first, and the decision made after that. Casey proposed it, Piers said "That makes sense to me", Delia said "Agreed, that's the right call." `confirmed`
+
+## Estimates
+
+- Timing of Sasha's second interview: Casey will "aim for early next week." This is a soft target, not a fixed date. `estimate`
+
+## Second-Hand Reports
+
+- None. Every view in the transcript came from the person who formed it.
+
+## Flagged Non-Decisions
+
+- Take-home technical tests for all candidates. Casey raised it as "more open." Delia said it "Could be worth trying at some point." Piers said "Maybe, though it adds time to the process. Not sure it's worth it for every role." Casey closed it with "Let's leave that one as a maybe for now, not something we're actually changing yet." Nothing is changing; it stays open with no owner and no date to revisit it.
+
+## Actions
+
+| Action | Owner | Timing | Status |
+| --- | --- | --- | --- |
+| Send the offer to Jamie Ellis | Casey Blake | By Friday (which Friday is not stated; most likely the coming one) | Confirmed action, not started |
+| Schedule a second technical interview for Sasha Rowe, probing incident response | Casey Blake | `estimate`: aiming for early next week | Confirmed action, not started |
+| Run Sasha's second interview | `unknown` | `unknown` | Not assigned in the meeting |
+| Decide on Sasha Rowe after the second interview | Panel (implied, not named) | After the second interview; no date | Not started |
+
+## Open Questions
+
+- Who will conduct Sasha's second interview.
+- The offer details for Jamie (salary, start date, terms) were not discussed. `unknown`
+- Whether, and when, take-home tests will be looked at again. `unknown`
+- Whether the same panel makes the final call on Sasha, or Casey alone. `unknown`
+
+## Summary
+
+Decided: the panel agreed unanimously to offer Jamie Ellis the role, and Casey will send the offer by Friday. Also decided: no call on Sasha Rowe yet. Both panellists independently saw a gap on incident escalation, so Casey will set up a second technical interview focused on incident response, aiming (an estimate, not a fixed date) for early next week, and the decision comes after that. Not decided: take-home tests for all candidates were floated and left as a "maybe", with nothing changing yet. Unknown: who runs Sasha's second interview, and Jamie's offer terms.
+
+## Before treating this as the record, check
+
+- The second interview for Sasha has a soft date only ("aim for early next week"), and nobody was named to run it.
+- "By Friday" for Jamie's offer does not say which Friday.
+- Take-home tests are a flagged non-decision. Do not tell anyone the process is changing.
+- No conflicts came up. Delia and Piers agreed with each other on both candidates.
+
+Checklist:
+
+- Someone said every confirmed fact outright in the meeting; none was inferred
+- Every action has an owner and timing, or is honestly marked unknown rather than guessed
+- Anything that sounds like a decision but wasn't agreed is flagged as a non-decision, not written up as one
+- A real, clear decision is written down plainly as a decision, not hedged for caution's sake
+- Any conflict between two things said in the meeting is shown, not quietly settled in one side's favour
+- The write-up holds no personal or confidential information beyond what it needs
+
+A note on that last point: candidate assessments are sensitive even when the people are fictional. In a real debrief, keep these notes to the hiring panel and HR.

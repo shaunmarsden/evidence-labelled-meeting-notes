@@ -1,0 +1,69 @@
+# Evidence-Labelled Notes: Hiring Panel Debrief (Senior Support Engineer, Overton Labs)
+
+Source: Fictional transcript supplied in chat, "Hiring Panel Debrief". Participants: Casey Blake (Hiring Manager), Delia Lockwood (Panel, Engineering), Piers Lowther (Panel, Ops).
+
+## Confirmed Facts
+
+- Delia ran the technical round for Jamie Ellis and described it as "strong", "one of the best technical rounds we've had this quarter", with no gaps she would flag. `confirmed` (stated view of the interviewer who ran the round)
+- Piers said the ops scenario went well for Jamie and showed "good instincts under pressure". `confirmed` (stated view)
+- Piers had concerns about Sasha Rowe: the ops scenario was fine, but there was a gap on the incident escalation question. He said it was "not a dealbreaker necessarily". `confirmed` (stated view)
+- Delia said she saw the same incident-escalation gap for Sasha, and that Sasha's other technical fundamentals were solid. `confirmed` (stated view)
+
+## Confirmed Decisions
+
+- The panel agreed to extend an offer to Jamie Ellis. Casey asked whether everyone agreed; Delia said "Yes, from me" and Piers said "Yes, no hesitation". Casey said "that's decided then." `confirmed`
+- No decision on Sasha Rowe today, either way. Casey proposed a second technical interview focused on incident response, with the decision made after it. Piers said "That makes sense to me" and Delia said "Agreed, that's the right call." `confirmed`
+
+## Estimates
+
+- Casey aims to get the second Sasha Rowe interview scheduled for "early next week". `estimate` (soft target, stated as an aim)
+
+## Second-Hand Reports
+
+- None recorded. Each view above came from the person who formed it.
+
+## Flagged Non-Decisions
+
+- **Take-home technical tests for all candidates.** Casey raised whether to start these for all candidates, not just live interviews. Delia said it "could be worth trying at some point" and might help with this kind of gap. Piers said "maybe", but noted it adds time to the process and may not be worth it for every role. Casey closed it explicitly: "leave that one as a maybe for now, not something we're actually changing yet." It is not a decision and no change has been made.
+- **Sasha Rowe's hiring outcome.** Not decided. The meeting deferred it to after a second interview. Do not read this as a rejection or as an offer.
+
+## Actions
+
+| Action | Owner | Timing | Status |
+| --- | --- | --- | --- |
+| Send the offer to Jamie Ellis | Casey Blake | "by Friday" (the transcript does not say which Friday) | Confirmed action, not started |
+| Schedule a second technical interview for Sasha Rowe, probing incident response | Casey Blake | "early next week" (soft target) | Confirmed action, not started |
+| Run the second technical interview for Sasha Rowe | unknown (not assigned in the meeting) | unknown | Not started |
+| Decide on Sasha Rowe after the second interview | unknown (the meeting said "then decide", not who decides or when) | unknown | Not started |
+| Decide whether to introduce take-home tests for all candidates | unknown (not assigned) | unknown | Not started; explicitly parked as a maybe |
+
+## Open Questions
+
+- Who will run the second interview for Sasha Rowe? The meeting did not say, and it matters because the brief was specific to incident response.
+- When and by whom will the Sasha Rowe decision be made after the second interview?
+- Which Friday is the Jamie Ellis offer deadline?
+- Is the Jamie Ellis offer subject to any approval beyond this panel? The meeting did not discuss this.
+- Should take-home tests be introduced for all candidates or only some roles? Parked, not discussed in depth.
+
+## Summary
+
+**Facts:** Both panellists rated Jamie Ellis's interviews positively, and Delia rated the technical round as one of the strongest this quarter. Piers and Delia each independently noticed the same gap on incident escalation for Sasha Rowe. Delia rated Sasha's fundamentals as solid.
+
+**Decisions:** The panel agreed to make Jamie Ellis an offer. Casey will send it by Friday. The panel did not decide on Sasha Rowe and agreed to run a second technical interview focused on incident response first.
+
+**Estimates:** Casey aims to schedule the Sasha Rowe second interview for early next week. That is a target, not a fixed date.
+
+**Not decided:** Take-home tests for all candidates. Casey said this is a maybe and nothing is changing yet.
+
+**Unknown:** Who runs the second Sasha Rowe interview, who makes the final Sasha decision, and when.
+
+## Require Human Review
+
+Check these before treating this as the record:
+
+1. **Jamie Ellis offer:** Casey owns sending it "by Friday", but the transcript does not say which Friday. Confirm the date.
+2. **Sasha Rowe second interview:** Scheduling is owned by Casey, but the interviewer, the date and the decision owner are all unknown.
+3. **Take-home tests:** Flagged as a non-decision. Do not record it as a policy change.
+4. **Sasha Rowe outcome:** Not decided. Do not record it as a rejection or an offer.
+5. **Offer approval:** The meeting did not discuss whether the offer needs sign-off beyond the panel.
+6. **Conflict:** None surfaced in the meeting. The panel's views on Sasha were consistent with each other.

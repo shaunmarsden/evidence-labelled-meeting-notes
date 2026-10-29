@@ -1,0 +1,68 @@
+# Evidence-Labelled Notes: Hiring Panel Debrief, Senior Support Engineer
+
+Source: Transcript of the Hiring Panel Debrief (Overton Labs, fictional). Participants: Casey Blake (Hiring Manager), Delia Lockwood (Panel, Engineering), Piers Lowther (Panel, Ops).
+
+## Confirmed Facts
+
+- Delia said Jamie Ellis's technical round was "strong", one of the best technical rounds this quarter, with no gaps she would flag. `confirmed`
+- Piers agreed with Delia on Jamie's technical round and said the ops scenario went well, with good instincts under pressure. `confirmed`
+- Piers noticed a gap on the incident escalation question in Sasha Rowe's interview. He said it was "not a dealbreaker necessarily". `confirmed`
+- Delia saw the same incident escalation gap on her side and said Sasha's technical fundamentals were otherwise solid. `confirmed`
+
+## Confirmed Decisions
+
+- Extend an offer to Jamie Ellis. Casey asked whether everyone agreed. Delia said yes, Piers said yes with no hesitation, and Casey closed it as decided. `confirmed`
+- Do not decide on Sasha Rowe today. Run a second technical interview probing incident response, then decide. Piers and Delia both agreed. `confirmed`
+
+## Estimates
+
+- Casey's second Sasha Rowe interview is targeted for "early next week", which he said he would aim for. This is a soft target, not a booked date. `estimate`
+
+## Second-Hand Reports
+
+None. Every view in the transcript came from a panel member who was in the meeting.
+
+## Flagged Non-Decisions
+
+- Take-home technical tests for all candidates, not just live interviews. Casey raised it as an open question. Delia said it "could be worth trying at some point" and "might help with exactly this kind of gap". Piers said "maybe", adding that it adds time and he is not sure it is worth it for every role. Casey put it down as "a maybe for now, not something we're actually changing yet". Nothing was agreed.
+
+## Actions
+
+| Action | Owner | Timing | Status |
+| --- | --- | --- | --- |
+| Send the offer to Jamie Ellis | Casey Blake | By Friday (the date of that Friday is not in the transcript) | Confirmed action, not started |
+| Schedule a second technical interview for Sasha Rowe, probing incident response | Casey Blake | Aim for early next week (`estimate`, soft target) | Confirmed action, not started |
+
+## Open Questions
+
+- Sasha Rowe: the meeting did not say what result from the second interview would lead to an offer or a rejection, or who makes the final call.
+- Sasha Rowe: the transcript does not name who will conduct the second interview.
+- Take-home tests: left as a maybe. The meeting did not establish whether they will be introduced, or for which roles.
+- Jamie Ellis: offer terms (salary, start date) were not discussed.
+- The transcript does not give the meeting date, so "Friday" cannot be pinned to a calendar date.
+
+## Summary
+
+The panel agreed to extend an offer to Jamie Ellis, and Casey will send it by Friday. Both panel members rated Jamie's technical and ops rounds well, so this is a confirmed decision.
+
+No decision was reached on Sasha Rowe. Piers and Delia both noticed a gap on incident escalation, and Delia said the rest of the technical picture was solid. The panel agreed to hold the decision until a second technical interview focused on incident response. Casey will schedule it and is aiming for early next week. That timing is an estimate.
+
+Take-home tests for all candidates were floated and left as a maybe. Nothing was agreed, and the process has not changed.
+
+## Require Human Review
+
+Check these before treating the write-up as the record:
+
+- The offer to Jamie Ellis has a clear owner (Casey) and a timing ("by Friday"), but the transcript does not give the date, so confirm it.
+- The second Sasha Rowe interview has no booked date, no named interviewer, and only a soft "early next week" target.
+- Take-home tests are a flagged non-decision. Do not record them as a process change.
+- No conflicts were surfaced. The panel's views lined up on both candidates.
+
+Checklist before treating this as the record:
+
+- [ ] Every confirmed fact was said outright in the meeting; none was inferred
+- [ ] Every action has an owner and timing, or is honestly marked unknown or estimate
+- [ ] Anything that sounds like a decision but wasn't agreed is flagged as a non-decision (take-home tests)
+- [ ] The Jamie Ellis offer is recorded plainly as a decision
+- [ ] Any conflict between statements in the meeting is shown (none found)
+- [ ] The write-up holds no personal or confidential information beyond what it needs
