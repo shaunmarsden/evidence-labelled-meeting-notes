@@ -1,0 +1,88 @@
+# Evidence-Labelled Notes: Project Atlas Weekly Status
+
+Source: Transcript supplied in chat, "Fictional Transcript: Project Atlas Weekly Status" (Fernbridge Digital, fictional). Participants: Hester Pembroke (Project Manager), Dan Brannigan (Engineering Lead), Sam Crowther (QA Lead), Liz Chen (Product).
+
+## Confirmed Facts
+
+- The core migration is basically done, and the last two services were moved over on Tuesday. `confirmed` (Dan)
+- The auth flow is still in progress. `confirmed` (Dan, Sam)
+- QA found an edge case with expired session tokens on Monday and is still working through it. `confirmed` (Sam)
+- Nothing has been signed off by QA on the auth flow. `confirmed` (Sam)
+- The rollback plan doc still references service names from before the migration. `confirmed` (Hester; Dan agreed it needs doing)
+
+## Confirmed Decisions
+
+- The auth flow is recorded as still open, not signed off. `confirmed` (Hester, after Dan's correction; see Conflicts)
+- The 15th stays a working target, not a committed launch date. `confirmed` (Hester)
+- The auth testing timing is a rough estimate, not a date. `confirmed` (Hester)
+- Next weekly call is at the same time next week. `confirmed` (Hester)
+
+## Estimates
+
+- Auth testing: "probably another two days, maybe less if the fix is as simple as it looks". Sam explicitly did not promise this. `estimate` (Sam)
+
+## Second-Hand Reports
+
+- Users are complaining about login timeouts on the current system. Liz passed this on from the support team and has not checked it herself. `second_hand` (Liz, from support)
+
+## Conflicts
+
+- Dan said QA had signed off on auth "yesterday". Sam said auth testing is not finished and nothing has been signed off. Dan then withdrew his claim, saying he may have been thinking of the payments flow. Hester settled it by recording auth as open. Dan's correction was not checked against anything, and the meeting did not establish whether the payments flow has been signed off. `conflict` (surfaced, settled by Dan's correction)
+
+## Flagged Non-Decisions
+
+- Committing to launch on the 15th. Hester proposed saying the 15th. Dan said it "could work, assuming Sam's estimate holds". Sam would not commit until auth testing is done. Hester kept it as a working target only. No launch date was agreed.
+- Gradual rollout with feature flags, or flipping it all at once. Liz leaned gradual. Dan said either could work and it depends on how auth testing lands. Hester left it open to revisit once auth is done.
+
+## Actions
+
+| Action | Owner | Timing | Status |
+| --- | --- | --- | --- |
+| Finish auth flow testing, including the expired session token edge case | Sam Crowther (implied by his report, not formally assigned) | Estimate: about two days, not a date | In progress |
+| Update the rollback plan doc to replace the old service names | unknown (Dan agreed it needs doing, but was not assigned it) | unknown. Hester said "pick that up next time", so a soft target for the next weekly call | Not started |
+| Look properly into the login timeout reports | unknown (Hester said "we should get someone", nobody named) | unknown | Not started |
+| Decide gradual rollout with feature flags or all at once | unknown | Conditional: revisit once auth testing is done. No date. | Not started |
+
+## Open Questions
+
+- Has the payments flow been signed off? Dan may have been thinking of it, but the meeting did not establish this.
+- How long will auth testing take, and is the fix as simple as it looks? Sam does not know.
+- Will auth testing turn up more edge cases? Sam said there could be.
+- Are the login timeouts real, and how serious are they? Nobody has checked.
+- Is the 15th achievable at all? That depends on auth testing.
+
+## Summary
+
+The core migration is basically done. The last two services moved over on Tuesday. That is the confirmed position.
+
+The auth flow is not signed off. QA found an expired session token edge case on Monday and is still working through it. Sam estimates about two more days, maybe less, but he has not promised a date. Dan first said QA had signed off on auth. He withdrew that and said he may have been thinking of payments. That has not been checked.
+
+The 15th is a working target, not a committed launch date. Hester said not to lock it in until auth testing is done.
+
+The rollout approach is undecided. Liz leans gradual, Dan says either could work, and Hester will revisit once auth is done.
+
+Support has reported login timeouts. Liz has not checked this herself, so treat it as second-hand until someone looks into it. Nobody has been asked to yet.
+
+The rollback plan doc still names the old services, and nobody has been assigned to update it.
+
+The next call is at the same time next week.
+
+## Require Human Review
+
+Check these before treating this write-up as the record:
+
+- Actions with an unknown owner: the rollback doc update, the login timeout investigation, and the rollout decision.
+- Actions with unknown or conditional timing: the same three.
+- Flagged non-decisions: the 15th launch date, and gradual versus all-at-once rollout.
+- Conflict surfaced: Dan and Sam disagreed on auth sign-off. It was settled by Dan's correction, not checked. His payments flow mention is unverified.
+
+Checklist before treating the write-up as the record:
+
+- [ ] Every confirmed fact was said outright in the meeting, none inferred
+- [ ] Every action has an owner and timing, or is honestly marked unknown
+- [ ] Anything that sounds like a decision but wasn't agreed is flagged as a non-decision
+- [ ] The clear decisions (auth recorded as open, 15th as a working target, auth timing as a rough estimate) are written as decisions
+- [ ] The Dan and Sam conflict is shown, not quietly settled in one side's favour
+- [ ] The write-up holds no personal or confidential information beyond what it needs
+
+Suggested next step (not an authorisation to act): before the next call, get owners named for the rollback doc, the login timeout check, and the rollout decision, and confirm with Sam whether the payments flow has been signed off.

@@ -1,0 +1,69 @@
+# Evidence-Labelled Notes: Ridgeway Renewal Planning
+
+Source: Fictional transcript, "Ridgeway Renewal Planning" internal renewal planning call. Participants: Maren Pryce (Account Director), Tobias Quill (Finance Partner), Saskia Sorrel (Customer Success).
+
+## Confirmed Facts
+
+- The Ridgeway renewal date is 30 November. Tobias: "Yes, 30 November. That's in the contract." `confirmed`
+
+## Confirmed Decisions
+
+- Renewal pricing is flat, with no uplift. Maren: "that's decided then, flat pricing." Tobias raised no objection from finance and Saskia said "flat is the right call." `confirmed`
+
+## Estimates
+
+- Renewal takes about six weeks once paperwork is sent. Tobias: "Probably around six weeks, give or take. Procurement there is slow." `estimate`
+- The sponsor is fine with us. Saskia: "I think their sponsor is fine with us." This is her hedged view, not a checked fact. `estimate`
+
+## Second-Hand Reports
+
+- Ridgeway may be looking at a competitor. Saskia heard it from someone on their ops team and said she has not spoken to anyone senior about it. `second_hand`
+
+## Conflicts
+
+- Current contract value. Tobias said "£84,000 a year" but said he was "going from memory." Saskia had "£48,000 in my notes from the last review." Maren said "we'll sort that out." The meeting did not resolve it, so neither figure is confirmed. `conflict`
+
+## Flagged Non-Decisions
+
+- Three-year discount. Maren asked whether to offer a discount for a three-year signing. Tobias said "We could look at it" and Saskia said "Depends what they want, really." Maren said "let's park that for now." This is parked, not decided.
+- Calling the sponsor before paperwork goes out. Maren said "someone should probably call the sponsor," and Saskia said "Yes, that makes sense." Both agreed the idea, but no one was assigned to make the call and no timing was set.
+
+## Actions
+
+| Action | Owner | Timing | Status |
+| --- | --- | --- | --- |
+| Send the account usage report | Saskia Sorrel (said "I'll send round the usage report") | unknown | Confirmed action |
+| Call the sponsor before the paperwork goes out | unknown | unknown (relative to paperwork, no date) | Not started |
+| Resolve the contract value (£84,000 or £48,000) | unknown (Maren: "we'll sort that out") | unknown | Not started |
+| Send renewal paperwork | unknown (not discussed) | unknown | Not started |
+
+## Open Questions
+
+- What is the current contract value: £84,000 or £48,000?
+- Who calls the sponsor, and when?
+- Should a three-year discount be offered? Parked, with no decision.
+- Who sends the renewal paperwork, and when? The six-week estimate depends on this, and the meeting did not set it.
+- Is the competitor interest real? It is second-hand and nobody senior has confirmed it.
+
+## Summary
+
+Ridgeway's renewal date is 30 November, and that is confirmed. The one confirmed decision is flat pricing with no uplift. Estimates: the renewal takes about six weeks from paperwork, "give or take", and Saskia thinks the sponsor is fine. Second-hand: Ridgeway may be looking at a competitor, which nobody senior has confirmed. Unresolved: the current contract value is either £84,000 or £48,000, so check it before quoting anything. The three-year discount is parked. The sponsor call was agreed in principle but has no owner or timing. Saskia will send the usage report, with no date.
+
+## Require Human Review
+
+Check these before treating this as the record:
+
+- Actions with an unknown owner or date: the sponsor call, the contract value check, and the paperwork, which nobody was assigned.
+- Flagged non-decisions: the three-year discount and the sponsor call.
+- Conflict surfaced, not resolved: the contract value (£84,000 against £48,000).
+
+Checklist:
+
+- Every confirmed fact was said outright in the meeting. None was inferred.
+- Every action has an owner and timing, or is marked unknown. Nothing was guessed.
+- The three-year discount and the sponsor call are flagged as non-decisions, not written up as decisions.
+- The flat pricing decision is written down plainly as a decision.
+- The contract value conflict is shown, not settled in either side's favour.
+- The write-up contains no personal or confidential information beyond what it needs.
+
+This write-up is not authorisation to act on the next steps.

@@ -1,0 +1,69 @@
+# Evidence-Labelled Notes: Ridgeway Renewal Planning
+
+Source: Fictional transcript supplied in the chat, "Ridgeway Renewal Planning" (internal renewal planning call). Participants: Maren Pryce (Account Director), Tobias Quill (Finance Partner), Saskia Sorrel (Customer Success). The transcript has no meeting date.
+
+## Confirmed Facts
+
+- Ridgeway's renewal date is 30 November. Tobias confirmed it and said it is in the contract. `confirmed`
+
+## Confirmed Decisions
+
+- Renewal pricing will be flat, with no uplift. Maren proposed it, Tobias said "None from finance", Saskia said "Yes, flat is the right call", and Maren recorded it as decided. `confirmed`
+
+## Estimates
+
+- Current contract value: £84,000 a year. Tobias gave this but said "I'm fairly sure it's £84,000, but I'm going from memory." `estimate` (see the conflict below)
+- Renewal length: "probably around six weeks, give or take" from when the paperwork is sent. Tobias. `estimate`
+- Sponsor relationship: "I think their sponsor is fine with us." Saskia. `estimate` (a hedged view, not checked with the sponsor)
+
+## Second-Hand Reports
+
+- Ridgeway may be looking at a competitor. Saskia heard this from someone on Ridgeway's ops team and has not spoken to anyone senior about it. `second_hand`
+
+## Conflicts
+
+- Contract value: Tobias said £84,000 a year. Saskia said her notes from the last review have £48,000. Maren said "we'll sort that out", and the meeting did not resolve it. `conflict`
+
+## Flagged Non-Decisions
+
+- Three-year discount. Maren asked whether to offer a discount for a three-year term instead of one. Tobias said "We could look at it." Saskia said "Depends what they want, really." Maren said "let's park that for now." Not decided.
+- Sponsor call before the paperwork goes out. Maren said "someone should probably call the sponsor." Saskia said "Yes, that makes sense." Nobody was named to make the call, so this was agreed in principle but not assigned.
+
+## Actions
+
+| Action | Owner | Timing | Status |
+| --- | --- | --- | --- |
+| Send the account usage report round | Saskia Sorrel | unknown | Confirmed action (Saskia said "I'll send round") |
+| Call Ridgeway's sponsor before the paperwork goes out | unknown (not assigned) | unknown (before paperwork, no date) | Proposed, not confirmed |
+| Send the renewal paperwork | unknown | unknown | Not started (implied, not assigned) |
+| Resolve the contract value (£84,000 or £48,000) | unknown | unknown | Not started ("we'll sort that out", no owner) |
+| Make the flat-pricing offer to Ridgeway | unknown | unknown | Confirmed decision, no owner or date |
+
+## Open Questions
+
+- What is the correct current contract value, £84,000 or £48,000?
+- Who sends the renewal paperwork, and when? The six-week estimate depends on this, and the transcript has no meeting date, so the 30 November renewal cannot be checked against it.
+- Is Ridgeway actually looking at a competitor? So far this is second-hand only.
+- Does Ridgeway want a multi-year term? The three-year discount was parked, not decided.
+- Who calls the sponsor?
+
+## Summary
+
+Confirmed: the renewal date is 30 November, per the contract. The meeting agreed renewal pricing will be flat, with no uplift.
+
+Estimates: the contract value is probably £84,000 a year, though Tobias was working from memory. Renewal should take around six weeks once the paperwork goes out. Saskia thinks the sponsor relationship is fine.
+
+Conflict: Saskia's notes say £48,000. This was not resolved.
+
+Second-hand: Ridgeway may be looking at a competitor. The source is an ops team contact, and no senior conversation has happened.
+
+Not decided: the three-year discount was parked. Saskia will send the usage report. Nobody has been named to call the sponsor or send the paperwork.
+
+## Human Review Before This Is the Record
+
+- The contract value conflict (£84,000 or £48,000) must be checked against the contract before any figure is used.
+- The flat-pricing decision is confirmed, but no owner or date is set for making the offer.
+- The sponsor call and the paperwork have no owner or date.
+- The six-week renewal estimate cannot be checked against 30 November without a send date or the meeting date.
+- The competitor report is second-hand. Check it with a senior contact before treating it as fact.
+- The three-year discount was not decided.

@@ -1,0 +1,70 @@
+# Evidence-Labelled Notes: Ridgeway Renewal Planning
+
+Source: Fictional transcript, Ridgeway Logistics internal renewal planning call. Participants: Maren Pryce (Account Director), Tobias Quill (Finance Partner), Saskia Sorrel (Customer Success).
+
+Inputs supplied: the transcript of this one meeting only. No earlier notes, contract or correspondence were supplied, so nothing below is checked against them.
+
+## Confirmed Facts
+
+- Ridgeway's renewal date is 30 November. Tobias said it is "in the contract". `confirmed`
+- The value of the current contract was not agreed. Tobias said £84,000 a year and Saskia's notes from the last review say £48,000. See Conflicts below. `conflict`
+
+## Confirmed Decisions
+
+- Ridgeway will be offered flat pricing on renewal, with no uplift. Maren proposed it and Tobias said "None from finance". Saskia said "flat is the right call", and Maren closed it with "that's decided then, flat pricing." `confirmed`
+
+## Estimates
+
+- Once the paperwork goes out, Tobias expects the renewal to take "probably around six weeks, give or take", because Ridgeway's procurement is slow. `estimate`
+- Tobias thinks the contract is worth £84,000 a year, but he is "fairly sure" and "going from memory". Treat this as an estimate, not a confirmed figure. `estimate`
+
+## Second-Hand Reports
+
+- Ridgeway "might be looking at a competitor". Saskia heard this from someone on their ops team and said herself that it is secondhand. She has not spoken to anyone senior about it. `second_hand`
+
+## Inferences
+
+- Saskia said "I think their sponsor is fine with us." This is her view, not something the sponsor has confirmed. `inference`
+
+## Conflicts
+
+- Current contract value: Tobias says £84,000 a year, from memory. Saskia's notes from the last review say £48,000. Maren said "we'll sort that out", but nobody was given the job of checking it and no date was set. `conflict`
+
+## Flagged Non-Decisions
+
+- **Discount for a three-year term.** Maren raised it. Tobias said "We could look at it" and Saskia said "Depends what they want, really." Maren then said "let's park that for now." Nothing was decided, so do not mention it to Ridgeway as an offer.
+- **Calling the sponsor before the paperwork goes out.** Maren said "someone should probably call the sponsor" and Saskia replied "Yes, that makes sense." Saskia agreed it was a good idea but did not say she would make the call. Nobody owns this action yet.
+
+## Actions
+
+| Action | Owner | Timing | Status |
+| --- | --- | --- | --- |
+| Send round the usage report for the account | Saskia | `unknown` | Confirmed action, not started |
+| Call the sponsor before the paperwork goes out | `unknown` | Before the paperwork is sent. The send date itself is `unknown` | Proposed, not assigned |
+| Settle the contract value (£84,000 or £48,000) | `unknown` | `unknown` | Agreed it needs doing ("we'll sort that out"), not assigned |
+| Prepare and send the renewal paperwork | `unknown` | `unknown` | The meeting assumed it would happen but did not discuss it |
+
+## Open Questions
+
+- Is the current contract worth £84,000 or £48,000 a year?
+- Is Ridgeway really looking at a competitor, and if so, which one? Nobody senior at Ridgeway has been asked.
+- Does the sponsor actually feel positive about us, or is that only Saskia's impression?
+- Who will call the sponsor, and when?
+- When will the paperwork go out, and who will send it? Tobias estimates about six weeks from sending to signature, and the renewal date is 30 November, so the send date matters.
+- Will a discount for a three-year term be offered at all? This was parked.
+
+## Summary
+
+**Decided:** Ridgeway will be offered flat pricing on renewal, with no uplift. All three participants agreed. **Confirmed:** the renewal date is 30 November, according to the contract. **Not settled:** the current contract value is either £84,000 (Tobias, from memory) or £48,000 (Saskia's notes), and it needs checking against the contract before any pricing goes out. **Estimate:** Tobias expects the renewal to take about six weeks once the paperwork is sent. The transcript does not say when the meeting took place. If the paperwork goes out less than six weeks before 30 November, that estimate says the renewal will not close in time. This is my inference and needs checking. **Unverified:** a second-hand report says Ridgeway might be looking at a competitor, and Saskia thinks the sponsor is happy. Neither has been checked with anyone senior at Ridgeway. **Parked:** a discount for a three-year term. **Actions:** Saskia will send the usage report, with no date set. The sponsor call, the contract value check and the paperwork all have no owner or date.
+
+**Suggested next step (not authorised by this meeting):** give someone the sponsor call before the paperwork goes out. That call is also the obvious place to test the competitor rumour.
+
+## Human Review Before Treating This as the Record
+
+- **Unresolved conflict:** contract value, £84,000 or £48,000. Check it against the contract.
+- **Actions with no owner:** the sponsor call, the contract value check and the paperwork.
+- **Actions with no date:** every action, including Saskia's usage report.
+- **Flagged non-decisions:** the discount for a three-year term (parked) and the sponsor call (agreed as a good idea, not assigned).
+- **Timeline risk:** check whether the six-week estimate can still be met before 30 November.
+
+The skill points to a review checklist (checks/checklist.md), but it was not included in what you pasted, so I could not run it. Paste it in if you want this write-up checked against it.

@@ -1,0 +1,62 @@
+{
+ "e463116": {
+  "transcript": "atlas",
+  "arm": "inline",
+  "model": "haiku"
+ },
+ "e319553": {
+  "transcript": "ridgeway",
+  "arm": "inline",
+  "model": "haiku"
+ },
+ "e646811": {
+  "transcript": "ridgeway",
+  "arm": "current",
+  "model": "haiku"
+ },
+ "e503029": {
+  "transcript": "overton",
+  "arm": "current",
+  "model": "haiku"
+ },
+ "e550558": {
+  "transcript": "overton",
+  "arm": "inline",
+  "model": "opus"
+ },
+ "e773369": {
+  "transcript": "overton",
+  "arm": "current",
+  "model": "opus"
+ },
+ "e849217": {
+  "transcript": "ridgeway",
+  "arm": "inline",
+  "model": "opus"
+ },
+ "e197987": {
+  "transcript": "ridgeway",
+  "arm": "current",
+  "model": "opus"
+ },
+ "e867015": {
+  "transcript": "atlas",
+  "arm": "current",
+  "model": "haiku"
+ },
+ "e957102": {
+  "transcript": "overton",
+  "arm": "inline",
+  "model": "haiku"
+ },
+ "e337373": {
+  "transcript": "atlas",
+  "arm": "current",
+  "model": "opus"
+ },
+ "e389858": {
+  "transcript": "atlas",
+  "arm": "inline",
+  "model": "opus"
+ }
+}

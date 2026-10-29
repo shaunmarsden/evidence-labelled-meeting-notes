@@ -1,0 +1,162 @@
+---
+name: evidence-labelled-meeting-notes
+description: Turn a meeting transcript or clear notes into a write-up that keeps confirmed facts, estimates and assumptions visibly separate, so nothing invented gets treated as agreed. Use for any meeting, a status update, a planning session, a hiring debrief, a stakeholder review, where what was actually said needs to stay distinct from what is being assumed. Do not use this to write a finished summary email on its own; it produces the evidence pack a summary should be built from.
+---
+
+# Evidence-Labelled Meeting Notes
+
+You do not need to install anything to try this once. The lines between the dashes at the very top are just this file's label; leave them in. On GitHub, copy this using the **Raw** button near the top of the page rather than selecting the rendered text, so the tables and links below paste in cleanly. Send the whole file as your first message in any AI chat tool, then follow it with your actual inputs.
+
+Turn a meeting transcript or notes into a reliable record for human review. Preserve uncertainty and avoid turning a plausible interpretation into a fact, or a discussed idea into a decision.
+
+## Gather the Inputs
+
+List the material supplied before analysing it. Inputs may include:
+
+- The current meeting's transcript or notes
+- Relevant earlier notes or correspondence, if available
+- Who was actually in the meeting and what they said, versus what is being reported second-hand
+
+Use only the information needed for this write-up. Exclude unrelated personal information.
+
+## Classify the Evidence
+
+Use these labels consistently:
+
+- `confirmed`: directly and explicitly stated in the meeting
+- `estimate`: a number or view explicitly presented as approximate
+- `second_hand`: reported by someone who was not the original source
+- `inference`: a reasonable interpretation that still needs checking
+- `unknown`: important information the meeting did not establish
+- `conflict`: two things said in the meeting disagree with each other
+
+Do not upgrade an estimate, a second-hand comment or an inference into a confirmed fact.
+
+## Extract the Findings
+
+1. Identify confirmed facts and estimates, kept clearly labelled as which.
+2. State plainly when the meeting actually reached a genuine decision, do not hedge a real, explicit agreement just to be cautious; treating a real yes as ambiguous is its own failure, not a safe default.
+3. Record each action with its owner and timing, only where the meeting actually assigned both; mark either as unknown, or as a soft estimate, if it did not.
+4. Flag anything that sounds like a decision but was never actually confirmed as one, a proposal floated and never voted on, an idea that got nodded at rather than agreed.
+5. Note open questions and genuine unknowns the meeting did not resolve.
+6. Surface any conflict between two things said in the same meeting, rather than silently picking the more convenient one.
+7. Prepare a short summary that a reader could act on, with facts, decisions, estimates and assumptions still visibly distinct within it.
+
+Use this shape for the final write-up:
+
+```markdown
+# Evidence-Labelled Notes: [Meeting Name]
+
+Source: [transcript or notes reference]
+
+## Confirmed Facts
+
+- [Directly and explicitly stated in the meeting] `confirmed`
+
+## Confirmed Decisions
+
+- [Something the meeting actually agreed, not just discussed] `confirmed`
+
+## Estimates
+
+- [A number or view explicitly presented as approximate] `estimate`
+
+## Second-Hand Reports
+
+- [Reported by someone who was not the original source] `second_hand`
+
+## Flagged Non-Decisions
+
+- [Something that sounds like a decision but was not actually confirmed as one, note who said what and why it stayed open]
+
+## Actions
+
+| Action | Owner | Timing | Status |
+| --- | --- | --- | --- |
+| [What needs doing] | [Who, or `unknown` if not assigned] | [When, or `unknown`, or `estimate` if only a soft target] | [Confirmed action / in progress / not started] |
+
+## Open Questions
+
+- [Anything the meeting genuinely left unresolved]
+
+## Summary
+
+[A short, readable summary that a reader could act on, with facts, decisions, estimates and assumptions still visibly distinct within it, not flattened back into one undifferentiated paragraph.]
+```
+
+## Apply the Guardrails
+
+- Never invent an owner, a date, or a commitment the meeting did not actually establish.
+- Preserve conditional language exactly: "I think", "probably", "we should check", "subject to budget approval".
+- Do not treat a discussed option as a decision unless the meeting shows it was actually decided.
+- Equally, do not hedge a genuine, unambiguous agreement into looking uncertain just to seem cautious; call a real decision a decision.
+- State plainly when the meeting did not resolve something, rather than filling the gap with a plausible guess.
+- Recommend a next step if one is obvious, but do not treat this write-up as authorisation to act on it.
+
+## Stop When the Task Is Unsafe
+
+Do not manufacture a complete write-up when:
+
+- No usable transcript or notes are actually supplied
+- The material is too thin or garbled to support confident labelling
+- The request is to present an unsupported interpretation as a confirmed fact or a settled decision
+- The output would expose personal or confidential information not needed for the write-up
+
+Explain the limitation and ask only for the minimum missing information.
+
+## Require Human Review
+
+End with the points a reader must check before treating this write-up as the record: any action with an unknown owner or date, any flagged non-decision, and any conflict that was surfaced rather than resolved.
+
+After those points, give the reader this checklist to go through before treating the write-up as the record:
+
+- Someone said every confirmed fact outright in the meeting; none was inferred
+- Every action has an owner and timing, or is honestly marked unknown rather than guessed
+- Anything that sounds like a decision but wasn't agreed is flagged as a non-decision, not written up as one
+- A real, clear decision is written down plainly as a decision, not hedged for caution's sake
+- Any conflict between two things said in the meeting is shown, not quietly settled in one side's favour
+- The write-up holds no personal or confidential information beyond what it needs
+
+---
+
+Here is the transcript of a meeting. The company and the people are fictional. Please write it up.
+
+# Fictional Transcript: Project Atlas Weekly Status
+
+Fernbridge Digital, an entirely fictional software company. Weekly status call for Project Atlas, an internal platform migration. Participants: Hester Pembroke (Project Manager), Dan Brannigan (Engineering Lead), Sam Crowther (QA Lead), Liz Chen (Product).
+
+---
+
+**Hester:** Morning all. Let's do a quick run through where Atlas stands before we all scatter for the day. Dan, where are we on the migration itself?
+
+**Dan:** Core migration's basically done. We moved the last two services over on Tuesday. Auth flow's the one still in progress, but QA signed off on that yesterday, so I think we're in good shape there.
+
+**Sam:** Sorry, hang on, that's not right. We haven't finished testing the auth flow yet. We found an edge case with expired session tokens on Monday and we're still working through it. Nothing's been signed off from our side.
+
+**Dan:** Oh. I might be thinking of the payments flow then, not auth. My mistake.
+
+**Hester:** Okay, let's flag that as still open then, not signed off. Sam, any sense of timing on the auth testing?
+
+**Sam:** Hard to say exactly. Probably another two days, maybe less if the fix is as simple as it looks, but I don't want to promise that.
+
+**Hester:** Understood, we'll treat that as a rough estimate for now, not a date. Liz, anything from the product side?
+
+**Liz:** Just one thing, the support team mentioned to me that users have been complaining about login timeouts on the current system. I haven't looked into it myself, just passing it along from what they told me.
+
+**Hester:** Good to know, we should get someone to actually look into that properly rather than going on secondhand reports. Okay, on timing then, given where the auth flow is, should we say the 15th for launch?
+
+**Dan:** Yeah, I guess that could work, assuming Sam's estimate holds.
+
+**Sam:** I mean, maybe, but I'd rather not commit to a date until the auth testing's actually done. There could be more edge cases like the one we found.
+
+**Hester:** Fair, let's not lock in the 15th then, just keep it as a working target. One more thing before we go, someone needs to update the rollback plan doc, it's still referencing the old service names from before the migration.
+
+**Dan:** Yeah, that needs doing.
+
+**Hester:** Great, let's pick that up next time. Last thing, are we doing a gradual rollout with feature flags or flipping it all at once?
+
+**Liz:** I'd lean gradual, safer given what Sam's finding.
+
+**Dan:** Could go either way honestly, depends how the auth testing lands.
+
+**Hester:** Let's leave that open and revisit once auth's actually done. Thanks everyone, same time next week.
