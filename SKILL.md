@@ -108,4 +108,13 @@ Explain the limitation and ask only for the minimum missing information.
 
 End with the points a reader must check before treating this write-up as the record: any action with an unknown owner or date, any flagged non-decision, and any conflict that was surfaced rather than resolved.
 
-For fictional tests, read [the first worked example](example/), built to check the skill does not mistake a floated idea for a real decision, and [the second](example-two/), built to check the opposite: that it still recognises a genuine decision when one actually happens. Use [the review checklist](checks/checklist.md) before treating any write-up as the record.
+After those points, give the reader this checklist to go through before treating the write-up as the record:
+
+- Someone said every confirmed fact outright in the meeting; none was inferred
+- Every action has an owner and timing, or is honestly marked unknown rather than guessed
+- Anything that sounds like a decision but wasn't agreed is flagged as a non-decision, not written up as one
+- A real, clear decision is written down plainly as a decision, not hedged for caution's sake
+- Any conflict between two things said in the meeting is shown, not quietly settled in one side's favour
+- The write-up holds no personal or confidential information beyond what it needs
+
+For fictional tests, read [the first worked example](example/), built to check the skill does not mistake a floated idea for a real decision, and [the second](example-two/), built to check the opposite: that it still recognises a genuine decision when one actually happens.
